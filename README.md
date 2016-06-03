@@ -1,8 +1,8 @@
 ## ScotlandJS 2016 Presentation: Personal Data Mining (not) Just For Fun
 
-[PDF format without notes](ScotlandJS-Personal-Data-Mining.key)
+[PDF format without notes](ScotlandJS-Personal-Data-Mining.pdf)
 
-[Keynote slides with notes](ScotlandJS-Personal-Data-Mining.pdf)
+[Keynote slides with notes](ScotlandJS-Personal-Data-Mining.key)
 
 ## Resources
 
